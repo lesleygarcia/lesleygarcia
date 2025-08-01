@@ -20,5 +20,5 @@
 - 📧 Email: leslyochoa@icloud.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lesley-garcia-ochoa-9aa848282)
 
-Thanks for visiting! 🙌
+
 
