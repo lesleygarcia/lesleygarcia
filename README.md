@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lesley Garcia 👋
 
-<!--
-**lesleygarcia/lesleygarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science major with a minor in Mathematics at Felician University.  
+💻 I recently completed the Break Through Tech AI program with Cornell Tech.  
+🔧 I'm passionate about IT support, data analysis, and using technology to solve real-world problems.  
+🌱 Currently building my skills in Python, machine learning, and tech tools that make people’s lives easier.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+- 🔍 [My Cornell Portfolio](https://github.com/lesleygarcia/My-Cornell-Portfolio) — Predicting Airbnb prices using regression models  
+- 🧠 Compare KNN vs. Decision Tree — *(Private repo from coursework)*  
+- 🧮 [Simple Python Calculator](https://github.com/lesleygarcia/simple-python-calculator)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: leslyochoa@icloud.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lesley-garcia-ochoa-9aa848282)
+
+Thanks for visiting! 🙌
+
