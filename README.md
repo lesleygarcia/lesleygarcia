@@ -1,4 +1,4 @@
-# Hi, I'm Lesley Garcia 👋
+# Hi, I'm Lesley Garcia 
 
 🎓 I'm a Computer Science major with a minor in Mathematics at Felician University.  
 💻 I recently completed the Break Through Tech AI program with Cornell Tech.  
@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Projects
+## Projects
 
 - 🔍 [My Cornell Portfolio](https://github.com/lesleygarcia/My-Cornell-Portfolio) — Predicting Airbnb prices using regression models  
 - 🧠 Compare KNN vs. Decision Tree — *(Private repo from coursework)*  
